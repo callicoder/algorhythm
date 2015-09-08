@@ -1,1 +1,1 @@
-# algorhythm
+Graph Algorithms, Sorting and Searching, and Dynamic Programming Problems implemented in C++
